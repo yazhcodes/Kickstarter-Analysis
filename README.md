@@ -6,7 +6,7 @@ The objective of this project is to identify the factors that will make a Kickst
 
 Our analysis shows that Theatre projects in the US have received a **fairly good response** from crowdfunding sources. The success rate has a decent margin over failure rate.
 
-<p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Parent%20Category%20Outcomes.png" width="800" height="600"> </p>
+<p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Analysis%20charts/Parent%20Category%20Outcomes.png" width="800" height="600"> </p>
 
 # *Can we say the same about Theatre Plays in the US?*
 
