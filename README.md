@@ -38,5 +38,5 @@ We have a list of British musicals that played in Edinburgh that our client was 
 
 # So, here's what I recommend..
 
-* Crowdfunding trends tip in the favor of **Theatre plays in the US**. It is highly recommended that the **Goal** be brought down to **$5000** and that we launch the campaign in **May** (*or June at the latest*), to increase our chances of success.
-* Although the Launch Date trends for Musicals are similar in The Great Britain, they have been receiving lesser support monetarily speaking. I would recommend to aim for around £2000 and launch in May or June.
+* Crowdfunding trends tip in the favor of *Theatre plays in the US*. To eliminate probable risk factors, it is highly recommended that the **Goal** be brought down to **$5000** and that we launch the campaign in **May** (*or June at the latest*).
+* Although the Launch Date trends for *Musicals* are similar in *The Great Britain*, they have been receiving lesser support monetarily speaking. A Musical campaign with a **Goal of £2100** launched in **May or June** is undoubtedly a recipe for success.
