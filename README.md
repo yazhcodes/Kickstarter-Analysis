@@ -16,7 +16,7 @@ Yes, we can..! In fact, Theatre Play campaigns seem to be **far more successful*
 
 # *Is our goal realistic?*
 
-We cannot underestimate the impact Goals can have on the outcome of a campaign. It is important to be realistic, so we have to choose a Goal that aligns with past trends. It is evident from the below chart that successful campaigns have had an average Goal of $5000. More importantly, did you notice that failed campaigns have had an average Goal of $10000? This sends out a red flag for our campaign estiamted at a budget of $10000! We have to come way down and settle for a figure around $5000 otherwise we are running into the risk of failing.
+We cannot underestimate the impact Goals can have on the outcome of a campaign. It is important to be realistic, so we have to choose a Goal that aligns with past trends. It is evident from the below chart that successful campaigns have had an average Goal of $5000. More importantly, did you notice that failed campaigns have had an average Goal of $10000? This sends out a red flag for our campaign estimated at a budget of $10000! We have to come way down and settle for a figure around $5000 otherwise we are running into the risk of failing.
 
 <p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Goal%20vs%20Outcome.png" width="800" height="600"> </p>
 
@@ -26,4 +26,7 @@ Hold on! Not yet.. Based on past trends, the month of **May** is a clear winner 
 
 <p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Launch%20Date%20Statistics.png" width="800" height="600"> </p>
 
+# Here's a summary of our recommendations
 
+* Crowdfunding trends tip in the favor of <span style="color: green;">Theatre plays in the US</span>. It is highly recommended that the **Goal** be brought down to **$5000** and we launch the campaign in **May or June** at the latest, to increase our chances of success.
+* kjdsvbksjfb
