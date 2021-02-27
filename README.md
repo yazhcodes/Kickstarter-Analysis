@@ -16,7 +16,9 @@ Yes, we can..! In fact, Theatre Play campaigns seem to be **far more successful*
 
 # *Is our goal realistic?*
 
+We cannot underestimate the impact Goals can have on the outcome of a campaign. It is important to be realistic, so we have to choose a Goal that aligns with past trends. It is evident from the below chart that successful campaigns have had an average Goal of $5000. More importantly, did you notice that failed campaigns have had an average Goal of $10000? This sends out a red flag for our campaign estiamted at a budget of $10000! We have to come way down and settle for a figure around $5000 otherwise we are running into the risk of failing.
 
+<p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Goal%20vs%20Outcome.png" width="800" height="600"> </p>
 
 # *Alright then! Shall we get started?*
 
