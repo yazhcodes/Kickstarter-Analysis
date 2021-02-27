@@ -26,7 +26,17 @@ Hold on! Not yet.. Based on past trends, the month of **May** is a clear winner 
 
 <p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Launch%20Date%20Statistics.png" width="800" height="600"> </p>
 
-# Here's a summary of our recommendations
+# An insight into British Musicals
+
+It's a no-brainer that British Musicals with a goal around £2000 stand a better chance as opposed to those with higher goals. Although our budget is not unrealistic, it would be wise to cut down some expenses and stay closer to the winning trend.
+
+<p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/British%20Musical%20goals.png" width="800" height="600"> </p>
+
+We have a list of British musicals that played in Edinburgh that our client was more interested in. So we dug a little deeper to understand these campaigns better. Here's what we found! Their average Goal was £2100 and they were all launched around the months May, June & July.
+
+<p align="center"> <img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Edinburgh%20Musicals.png"> </p>
+
+# So, here's what I recommend..
 
 * Crowdfunding trends tip in the favor of **Theatre plays in the US**. It is highly recommended that the **Goal** be brought down to **$5000** and that we launch the campaign in **May** (*or June at the latest*), to increase our chances of success.
-* British Musicals
+* Although the Launch Date trends for Musicals are similar in The Great Britain, they have been receiving lesser support monetarily speaking. I would recommend to aim for around £2000 and launch in May or June.
