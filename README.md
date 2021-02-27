@@ -28,5 +28,5 @@ Hold on! Not yet.. Based on past trends, the month of **May** is a clear winner 
 
 # Here's a summary of our recommendations
 
-* Crowdfunding trends tip in the favor of **Theatre plays in the US**. It is highly recommended that the **Goal** be brought down to **$5000** and we launch the campaign in **May or June** at the latest, to increase our chances of success.
+* Crowdfunding trends tip in the favor of **Theatre plays in the US**. It is highly recommended that the **Goal** be brought down to **$5000** and that we launch the campaign in **May** (*or June at the latest*), to increase our chances of success.
 * British Musicals
