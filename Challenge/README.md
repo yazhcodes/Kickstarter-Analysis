@@ -25,11 +25,11 @@ Timing is an important factor when we venture into unclear or risky territories.
 
 The impact of monetary factor to a campaign's outcome is equally important, if not more. So the success, failure and cancelation rates of Theatre plays were analyzed against the Goal of each camnpaign. No Theatre Play campaigns were canceled in the past. So we have only Successful & Failed campaigns to analyze.
 
-<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png"></img>
-
 It's clear from the data that Goals less than $1000 have the highest success rate at 75.8% closely followed by Goals between $1000 and $5000 at 72.6%. One interesting finding is that Goals between $45000 and $50000 have a 100% failure rate. Glad we are not aiming for that figure! Our estimate $10000, has seen a 54% success rate and 46% failure rate, which is inconclusive to determine our campaign's outcome.
 
 But based on the trend lines, it is clear that the higher the goal, the lesser the chance of success and higher the chance of failure.
+
+<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png"></img>
 
 ### Challenges and Difficulties Encountered
 
@@ -58,7 +58,7 @@ The Outcomes by Launch Date chart was a breeze as we had created something simil
 
 - **Some other possible tables and/or graphs that I would create:**
 
-	1. The Outcomes vs Goals graph did not make much sense to me until I added the **Trend lines**. This is one addition I would defenitely recommend to understand the data better.
-	2. I also added **Data labels** to the peaks in the graph that I discuss about in my analysis report. It's easier for Louise to correlate my findings with the graph when the Data labels are added appropriately.
-	3. I would also recommend finding the **difference between Goal and Pledged amount for the failed campaigns** and drill down further into those with bigger gaps. This would reveal the riskiest factors and help Louise eliminate them from her campaign.
+	* The Outcomes vs Goals graph did not make much sense to me until I added the **Trend lines**. This is one addition I would defenitely recommend to understand the data better.
+	* I also added **Data labels** to the peaks in the graph that I discuss about in my analysis report. It's easier for Louise to correlate my findings with the graph when the Data labels are added appropriately.
+	* I would also recommend finding the **difference between Goal and Pledged amount for the failed campaigns** and drill down further into those with bigger gaps. This would reveal the riskiest factors and help Louise eliminate them from her campaign.
 
