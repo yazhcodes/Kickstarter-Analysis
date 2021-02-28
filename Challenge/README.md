@@ -19,7 +19,7 @@ The purpose of this project is to help our client Louise with planning two Kicks
 
 Timing is an important factor when we venture into unclear or risky territories. So the effect the Launching Date will have on our campaign cannot be overlooked. Upon analyzing the outcomes of all Theatre campaigns based on Launch dates and visualizing the results using a Line Chart, it was revealed that the the success rate of campaigns that were launched in the month of May is significantly higher than other months.
 
-<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Resources%20(Challenge)/Theater_Outcomes_vs_Launch.png"></img>
+<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Theater_Outcomes_vs_Launch.png"></img>
 
 ### Analysis of Outcomes Based on Goals
 
@@ -27,7 +27,7 @@ The impact of monetary factor to a campaign's outcome is equally important, if n
 
 It's clear from the data that Goals less than $1000 have the highest success rate at 75.8% closely followed by Goals between $1000 and $5000 at 72.6%. One interesting finding is that Goals between $45000 and $50000 have a 100% failure rate. Glad we are not aiming for that figure! Our estimate $10000, has seen a 54% success rate and 46% failure rate, which is inconclusive to determine our campaign's outcome.
 
-<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Resources%20(Challenge)/Outcomes_vs_Goals.png"></img>
+<p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png"></img>
 
 But based on the trend lines, it is clear that the higher the goal, the lesser the chance of success and higher the chance of failure.
 
