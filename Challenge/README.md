@@ -25,9 +25,9 @@ Timing is an important factor when we venture into unclear or risky territories.
 
 The impact of monetary factor to a campaign's outcome is equally important, if not more. So the success, failure and cancelation rates of Theatre plays were analyzed against the Goal of each camnpaign. No Theatre Play campaigns were canceled in the past. So we have only Successful & Failed campaigns to analyze.
 
-It's clear from the data that Goals less than $1000 have the highest success rate at 75.8% closely followed by Goals between $1000 and $5000 at 72.6%. One interesting finding is that Goals between $45000 and $50000 have a 100% failure rate. Glad we are not aiming for that figure! Our estimate $10000, has seen a 54% success rate and 46% failure rate, which is inconclusive to determine our campaign's outcome.
-
 <p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png"></img>
+
+It's clear from the data that Goals less than $1000 have the highest success rate at 75.8% closely followed by Goals between $1000 and $5000 at 72.6%. One interesting finding is that Goals between $45000 and $50000 have a 100% failure rate. Glad we are not aiming for that figure! Our estimate $10000, has seen a 54% success rate and 46% failure rate, which is inconclusive to determine our campaign's outcome.
 
 But based on the trend lines, it is clear that the higher the goal, the lesser the chance of success and higher the chance of failure.
 
