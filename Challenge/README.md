@@ -35,15 +35,15 @@ But based on the trend lines, it is clear that the higher the goal, the lesser t
 
 The Outcomes by Launch Date chart was a breeze as we had created something similar during the course. When it came to Outcomes by Goals I did face some challenges.
 
-	1. I attempted to do this on my own before following the step by step instructions. I ended up with a crowded graph as there were too many Goal values. So I figured I have to find a way to group the goals for better visualization. I researched about binning the goals like we do in Box plots, but couldn't find much. So I came back to the instructions only to see that we had to manually form Groups and use COUNTIFS to finish up!
+1. I attempted to do this on my own before following the step by step instructions. I ended up with a crowded graph as there were too many Goal values. So I figured I have to find a way to group the goals for better visualization. I researched about binning the goals like we do in Box plots, but couldn't find much. So I came back to the instructions only to see that we had to manually form Groups and use COUNTIFS to finish up!
   
-  	2. Figuring out the COUNTIFS formula was a bit confusing at first but it was easier once I got the hang of it. The fact that I skipped the HINT video did not help. So I had to come back to the video and confirm whether my understanding was correct.
+2. Figuring out the COUNTIFS formula was a bit confusing at first but it was easier once I got the hang of it. The fact that I skipped the HINT video did not help. So I had to come back to the video and confirm whether my understanding was correct.
 
-	3. Copy pasting the COUNTIFS formula to all the cells and updating the filter conditions to match the context of each cell was a bit frustrating but worth it in the end. I wish there was an easier way to distribute the formula.
+3. Copy pasting the COUNTIFS formula to all the cells and updating the filter conditions to match the context of each cell was a bit frustrating but worth it in the end. I wish there was an easier way to distribute the formula.
 
-	4. The Goals vs outcomes chart did not not have significant peaks like Launch Date chart. So I was confused about what I would recommend to my client. But then adding Trend Lines to the chart made a lot of difference to the visualization and made a lot more sense to the data.
+4. The Goals vs outcomes chart did not not have significant peaks like Launch Date chart. So I was confused about what I would recommend to my client. But then adding Trend Lines to the chart made a lot of difference to the visualization and made a lot more sense to the data.
 
-	5. My biggest challenge so far in this course is figuring my way around Terminal, Github, Gitlab, SSH Keys and what not. I am told this will get easier over time and I sincerely hope so!
+5. My biggest challenge so far in this course is figuring my way around Terminal, Github, Gitlab, SSH Keys and what not. I am told this will get easier over time and I sincerely hope so!
 
 
 ## Results
