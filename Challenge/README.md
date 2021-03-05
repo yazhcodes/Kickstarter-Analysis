@@ -31,8 +31,6 @@ But based on the trend lines, it is clear that the higher the goal, the lesser t
 
 <p align="center"><img src="https://github.com/yazhcodes/Kickstarter-Analysis/blob/main/Challenge/Resources/Outcomes_vs_Goals.png"></img>
 
-<p align=“center”><img src=“https://www.wsp.com/-/media/Insights/Global/Image/urban_planning_LinkdIn-1200x628.jpg”></img>
-
 ### Challenges and Difficulties Encountered
 
 The Outcomes by Launch Date chart was a breeze as we had created something similar during the course. When it came to Outcomes by Goals I did face some challenges.
